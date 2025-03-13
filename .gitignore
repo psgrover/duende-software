@@ -222,3 +222,6 @@ nCrunchTemp_*
 playwright-traces
 
 artifacts
+
+# Ignore test results 
+test-results
